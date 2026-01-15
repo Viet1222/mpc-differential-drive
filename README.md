@@ -34,7 +34,7 @@ The simulation relies on the following Python libraries:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/Viet1222/mpc-differential-drive.git](https://github.com/Viet1222/mpc-differential-drive.git)
     cd YOUR_REPO_NAME
     ```
 
